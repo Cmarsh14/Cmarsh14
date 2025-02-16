@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Cmarsh14 (Chad Marshall)
 - 👀 I’m interested in Machine Learning, Blockchain, Cryptocurrency/Cryptography, Smart Contracts, Webscraping, Tech-based businesses, RE Investing, Economics
-- 🌱 I’m currently learning Machine Learning in R
+- 🌱 I’m currently learning Machine Learning in HTML/CSS/JS
 - 💞️ I’m looking to collaborate on Machine Learning projects
 - 📫 How to reach me LinkedIn:https://www.linkedin.com/in/chad-marshall-a8393910/
 
